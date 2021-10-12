@@ -1,1 +1,2 @@
-# Cryptocurrency-Trading-SQL-Case-Study
+# 💵 Cryptocurrency Trading SQL Case Study
+
