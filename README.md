@@ -2,6 +2,7 @@
 
 ## Introduction
 
+https://github.com/DataWithDanny/sql-masterclass/blob/main/course-content/step1.md
 
 ## Entity Relationship Diagram
 
